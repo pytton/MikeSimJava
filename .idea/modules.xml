@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MikeSimJava.iml" filepath="$PROJECT_DIR$/.idea/modules/MikeSimJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/MikeSimNoGradle.iml" filepath="$PROJECT_DIR$/MikeSimNoGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mstawowy.MikeSimulator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mstawowy.MikeSimulator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.mstawowy.MikeSimulator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.mstawowy.MikeSimulator.test.iml" />
     </modules>
   </component>
 </project>
